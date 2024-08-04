@@ -12,7 +12,7 @@ SBD_PATH: "./datasets/SBD"
 COCO_PATH: "./datasets/coco2017"
 LVIS_PATH: "./datasets/LVIS"
 OPENIMAGES_PATH: "./datasets/OpenImages"
-PASCALVOC_PATH: "./datasets/PascalVOC"
+PASCALVOC_PATH: "../data/VOCdevkit/VOC2012"
 ADE20K_PATH: "./datasets/ADE20K"
 
 # You can download the weights for HRNet from the repository:
